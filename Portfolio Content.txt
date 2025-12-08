@@ -1,3 +1,12 @@
 Projects
-	1.PiF(Pokemon Infinity Fusion)[additional link to spriter profile: https://www.fusiondex.org/artists/p10tr3k27/]
+	1.PiF(Pokemon Infinity Fusion)[additional links: {spriter profile: https://www.fusiondex.org/artists/p10tr3k27/}]
+		95
 		425.549
+		377.549
+		304.549
+		570.549
+		71.35
+		460.549
+	2.PMQ(Pokemon Moon Quest)[Additional links: None]
+		Rowlet_M
+		Rowlet_F
