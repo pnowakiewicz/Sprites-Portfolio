@@ -1,5 +1,5 @@
-Projects
-	1.PiF(Pokemon Infinity Fusion)[additional links: {spriter profile: https://www.fusiondex.org/artists/p10tr3k27/}]
+Projects:
+	1.PiF(Pokemon Infinity Fusion)[additional links: {spriter profile:"https://www.fusiondex.org/artists/p10tr3k27/"}]
 		95
 		425.549
 		377.549
@@ -10,3 +10,7 @@ Projects
 	2.PMQ(Pokemon Moon Quest)[Additional links: None]
 		Rowlet_M
 		Rowlet_F
+
+NON-Projects:
+	1.FFY(Forms For Youtubers)[additional links: {Youtube channel:"https://www.youtube.com/@ElJoeJoeBeans"}]
+		Sprite-0001 (Lanturn Flying/Ground type made for "JoeJoeBeans")
