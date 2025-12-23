@@ -14,3 +14,5 @@ Projects:
 NON-Projects:
 	1.FF(For Fun)[additional links: None]
 		Sprite-0001
+	2.SFY(Sprites For Youtubers)
+		Sprite-0001 (X-Mas Sprite for Kowboii)[additional links: {Youtube channel:"https://www.youtube.com/@K.owboii"}]
