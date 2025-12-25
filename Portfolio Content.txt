@@ -8,10 +8,10 @@ Projects:
 		71.35
 		460.549
 	2.PMQ(Pokemon Moon Quest)[Additional links: None]
-		Rowlet_M
-		Rowlet_F
-	3.PiP(Pokémon Infernal Punishment)[Additional links{}]
-
+		Rowlet_M (WIP)
+		Rowlet_F (WIP)
+	3.PiP(Pokémon Infernal Punishment)[Additional links{https://discord.gg/axAn2uK6fg}]
+		POKEMONTRAINER_Yuki (WIP)
 NON-Projects:
 	1.FF(For Fun)
 		Sprite-0001
