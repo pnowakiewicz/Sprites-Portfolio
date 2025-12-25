@@ -1,5 +1,5 @@
 Projects:
-	1.PiF(Pokemon Infinity Fusion)[additional links: {spriter profile:"https://www.fusiondex.org/artists/p10tr3k27/"}]
+	1.PiF(Pokemon Infinity Fusion)[Additional links: {spriter profile:"https://www.fusiondex.org/artists/p10tr3k27/"}]
 		95
 		425.549
 		377.549
@@ -10,9 +10,10 @@ Projects:
 	2.PMQ(Pokemon Moon Quest)[Additional links: None]
 		Rowlet_M
 		Rowlet_F
+	3.PiP(Pokémon Infernal Punishment)[Additional links{}]
 
 NON-Projects:
-	1.FF(For Fun)[additional links: None]
+	1.FF(For Fun)
 		Sprite-0001
 	2.SFY(Sprites For Youtubers)
-		Sprite-0001 (X-Mas Sprite for Kowboii)[additional links: {Youtube channel:"https://www.youtube.com/@K.owboii"}]
+		Sprite-0001 (X-Mas Sprite for Kowboii)[Additional links: {Youtube channel:"https://www.youtube.com/@K.owboii"}]
